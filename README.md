@@ -1,6 +1,10 @@
 # React: Creating and Hosting a Full-Stack Site
 This is the repository for the LinkedIn Learning course `React: Creating and Hosting a Full-Stack Site`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+## Course Description
+
+You've learned React and can create amazing front-end interfaces. But deploying them requires more. You need logic—and a place to put it. By combining your front-end UI with a back-end solution and cloud hosting, you can build powerful and interactive full-stack applications. In this project-based course, Shaun Wassell shows how to combine React, Node.js, and Amazon Web Services (AWS) in a full-stack, full-featured website, including user-friendly forms for posting articles and comments. Learn how to create an interface from React components, develop a Node.js server, tie in a MongoDB database, add user authentication with Firebase Auth, and deploy your site on Amazon Web Services. Join Shaun in this course to gain the skills to take your client services to the next level: full-stack web applications that are truly interactive.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -20,15 +24,18 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Instructor
 
+Shaun Wassell
+
+Senior Software Engineer, Educator at CBT Nuggets
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/shaun-wassell?u=104).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-24928483
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQEfNuCrg9Guag/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729814684031?e=2147483647&v=beta&t=r1ECRhP36-BCey_Ah1RHQnxPbNdZG6D5VeYUCEHqjdw
 
