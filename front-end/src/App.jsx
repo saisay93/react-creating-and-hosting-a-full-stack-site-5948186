@@ -24,7 +24,7 @@ const routes = [
 				element: <ArticlesListPage />,
 			},
 			{
-				path: "/articles/individual",
+				path: "/articles/:name",
 				element: <ArticlePage />,
 			},
 		],
